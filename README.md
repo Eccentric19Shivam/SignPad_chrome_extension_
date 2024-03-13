@@ -8,7 +8,9 @@
 
 The Digital Signature Chrome Extension provides a convenient way to digitally sign documents directly within your web browser. Whether you're signing contracts, agreements, or forms, this extension simplifies the signing process, saving you time and effort.
 
-![20240313221338](https://github.com/Eccentric19Shivam/SignPad_chrome_extension_/assets/143264952/c3405bdd-4988-452a-8078-6eb194f8a420)
+
+https://github.com/Eccentric19Shivam/SignPad_chrome_extension_/assets/143264952/ba0770d5-f60d-4cd5-94d6-dba12393dd40
+
 
 ## Usage
 
