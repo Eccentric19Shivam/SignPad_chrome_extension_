@@ -2,23 +2,13 @@
 
 # SignPad: Hassle free Digital Signature Extension!
 
-<div class="why">![sign128](https://github.com/Eccentric19Shivam/SignPad_chrome_extension_/assets/143264952/dab664df-e96d-4b4e-9604-da20819f0dd3)</div>
-<style>
-  .why{
- display: flex;
-align-item: center;
-  }
-  .rhy{
-  display: flex;
-  align-item: center;
-    }
-</style>
+                                ![sign128](https://github.com/Eccentric19Shivam/SignPad_chrome_extension_/assets/143264952/dab664df-e96d-4b4e-9604-da20819f0dd3)
 
 ## Overview
 
 The Digital Signature Chrome Extension provides a convenient way to digitally sign documents directly within your web browser. Whether you're signing contracts, agreements, or forms, this extension simplifies the signing process, saving you time and effort.
 
-<div class="rhy">![20240313221338](https://github.com/Eccentric19Shivam/SignPad_chrome_extension_/assets/143264952/c3405bdd-4988-452a-8078-6eb194f8a420)</div>
+                                ![20240313221338](https://github.com/Eccentric19Shivam/SignPad_chrome_extension_/assets/143264952/c3405bdd-4988-452a-8078-6eb194f8a420)
 
 ## Usage
 
