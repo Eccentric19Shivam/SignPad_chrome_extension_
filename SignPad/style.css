@@ -1,0 +1,95 @@
+/* style.css */
+
+body {
+    min-width: 400px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+      Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #1c1c1e;
+    color: #ffffff;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #1c1c1e;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+  }
+  
+  .canvas-container {
+    margin-bottom: 30px;
+  }
+  
+  canvas {
+    display: block;
+    width: 100%;
+    background-color: #2c2c2e; /* Lighter color for the canvas */
+    border: 2px solid #2c2c2e; /* Match the canvas border color */
+    border-radius: 12px;
+    transition: border-color 0.3s ease;
+  }
+  
+  .canvas-container:hover canvas {
+    border-color: #4c4c4e;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  button {
+    background-color: #007aff;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .clear-button {
+    background-color: #ff3b30;
+  }
+  
+  .clear-button:hover {
+    background-color: #cc2e23;
+  }
+  
+  .download-button {
+    background-color: #4cd964;
+  }
+  
+  .download-button:hover {
+    background-color: #44a340;
+  }
+  
+  .dark-mode-toggle {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    font-size: 16px;
+    color: #ffffff;
+    transition: color 0.3s ease;
+  }
+  
+  .dark-mode-toggle:hover {
+    color: #eeeeee;
+  }
+  
+  .dark-mode-toggle:active {
+    transform: scale(0.95);
+  }
+  
+  .dark-mode-toggle:focus-visible {
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1);
+  }
+  

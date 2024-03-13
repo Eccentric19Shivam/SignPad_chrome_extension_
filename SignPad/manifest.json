@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "SignPad: Create Signatures",
+    "version": "1.0",
+    "description": "Introducing: SignPad, create and download digital signatures and the same page, helps to reduce hassle and it is free of charge.",
+    "icons": {
+        "16": "./icons/sign16.png",
+        "32": "./icons/sign32.png",
+        "48": "./icons/sign48.png",
+        "128": "./icons/sign128.png"
+      },      
+    "author" : "Shivam Singh",
+    "permissions": ["storage", "downloads"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
